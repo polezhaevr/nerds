@@ -1,2 +1,12 @@
-# polezhaevr_nerds.github.io
-This is not a commercial project. This project was created for upgrading and demonstrating skills.
+Учебный проект htmlAcademy - Nerds статичная веб страница
+
+Описание: 
+Проект был выполнен в рамках обучения основ CSS и HTML , для закрепления знаний.
+Функцией проекта является продеммонстрировать навыки полученные на курсе. В данном проекте были использованны следущие технологии и языки: 
+* CSS
+* HTML
+* БЭМ 
+* Для создания сетки был использован flexbox
+
+[github pages клац](https://polezhaevr.github.io/polezhaevr_nerds.github.io/)
+
